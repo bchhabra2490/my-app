@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "my first express app",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bchhabra2490/my-app.git"
+  },
+  "keywords": [
+    "expressJS"
+  ],
+  "author": "Bharat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bchhabra2490/my-app/issues"
+  },
+  "homepage": "https://github.com/bchhabra2490/my-app#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
